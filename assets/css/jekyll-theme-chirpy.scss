@@ -1,0 +1,45 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+.timeline {
+  position: relative;
+  list-style: none;
+  padding-left: 2rem;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0.75rem;
+  width: 4px;
+  background-color: var(--timeline-color);
+}
+
+.timeline-item {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  top: 0.25rem;
+  left: -0.375rem;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: var(--timeline-node-bg);
+  border: 3px solid var(--timeline-year-dot-color);
+}

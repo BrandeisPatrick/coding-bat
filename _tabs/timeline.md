@@ -9,21 +9,23 @@ title: Timeline
   A chronological outline of my work experience and collaborations.
 </div>
 
-<ul class="list-unstyled">
-  <li>Software Developer, Example Corp (2018-2020)
+<ul class="timeline">
+  <li class="timeline-item">
+    <strong>2018-2020:</strong> Software Developer, Example Corp
     <ul>
       <li>Worked with an amazing team of peers to build web applications.</li>
     </ul>
   </li>
-  <li>Senior Developer, Sample Inc (2020-2022)
+  <li class="timeline-item">
+    <strong>2020-2022:</strong> Senior Developer, Sample Inc
     <ul>
       <li>Led a group of developers and mentored new teammates.</li>
     </ul>
   </li>
-  <li>Tech Lead, Demo Labs (2022-Present)
+  <li class="timeline-item">
+    <strong>2022-Present:</strong> Tech Lead, Demo Labs
     <ul>
       <li>Guiding cross-functional peers on various projects.</li>
     </ul>
   </li>
 </ul>
-
