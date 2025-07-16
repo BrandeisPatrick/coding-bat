@@ -9,7 +9,7 @@ order: 4
 Machine Learning Researcher & Software Developer @ Emory
 
 📧 [EmoryPatrick@outlook.com](mailto:EmoryPatrick@outlook.com)
-🔗 [LinkedIn](https://linkedin.com/in/PatrickLi)
+🔗 [LinkedIn](https://www.linkedin.com/in/patrick-pinyuan-li)
 🖥 [GitHub](https://github.com/BrandeisPatrick)
 
 ## Skills
