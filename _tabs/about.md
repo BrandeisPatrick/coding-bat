@@ -39,26 +39,6 @@ Machine Learning Researcher & Software Developer @ Emory
 - Co-developed LEWIS, a semi-classical force field simulation tool in C, enabling accurate simulation and prediction of molecular dynamics.
 - Managed the complete software lifecycle—including development, deployment, maintenance, and updates—to ensure consistent performance and reliability.
 
-## Selected Projects
-
-### Protein Siamese Neural Network: Predicting Single Nucleotide Variant Effects
-- Engineered and optimized deep learning models using contrastive learning for high-performance text semantic similarity detection for protein sequence data.
-- Built a data pipeline to process a 100K-entry dataset efficiently.
-- Developed a classification model inspired by NLP-based text similarity techniques, improving mutation effect prediction accuracy by 7% over the baseline model.
-- Developed automated training pipelines with experiment tracking and gradient visualization.
-- Published well-documented, modular code on GitHub, ensuring collaborative development and maintainability.
-
-### Learning Protein-ish: Foundational Insights on Protein Language Models
-- Designed and deployed a domain-specific LLM, leveraging Hugging Face, PyTorch, and scikit-learn, optimizing biological sequence interpretation.
-- Built a pipeline to scrape, clean, and filter a 100K-entry dataset from UniProt using Python and SQL, refining it into a high-quality 10K dataset.
-- Conducted an architectural analysis of state-of-the-art LLMs, evaluating their efficiency, scalability, and real-world applications.
-- Used adversarial probing techniques to analyze attention mechanisms in LLMs, improving interpretability for protein-sequence prediction.
-- Benchmarked models using accuracy, F1-score, and AUC-ROC, optimizing for performance and efficiency.
-- Deployed the LLM on Google Cloud Platform under the Google Cloud Research Credits Program, ensuring scalability and cloud-based accessibility.
-
-### LEWIS: Semi-Classical Molecular Force Field Software
-- Developed a high-performance molecular simulation engine in C, optimizing semi-classical force field parameters for enhanced computational chemistry.
-- Implemented Differential Evolution and Monte Carlo methods for parameter optimization, achieving a 50% improvement in computational speed over state-of-the-art approaches.
 
 ## Education
 
