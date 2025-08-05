@@ -1,0 +1,13 @@
+teams:
+  - name: Team 1
+    members:
+      - name: Alice
+        rank: 1
+      - name: Bob
+        rank: 3
+  - name: Team 2
+    members:
+      - name: Carol
+        rank: 2
+      - name: Dave
+        rank: 4
