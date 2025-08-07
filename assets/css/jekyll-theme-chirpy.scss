@@ -43,3 +43,31 @@
   background-color: var(--timeline-node-bg);
   border: 3px solid var(--timeline-year-dot-color);
 }
+
+/* Custom sidebar */
+#custom-sidebar {
+  position: fixed;
+  top: 4rem;
+  right: 0;
+  width: 200px;
+  background-color: var(--sidebar-bg, #f7f7f7);
+  border-left: 1px solid #ccc;
+  padding: 1rem;
+  z-index: 1000;
+}
+
+#custom-sidebar .sidebar-tabs {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#custom-sidebar .sidebar-tabs li {
+  margin-bottom: 0.5rem;
+}
+
+#custom-sidebar .sidebar-tabs a {
+  text-decoration: none;
+  color: inherit;
+}
+
