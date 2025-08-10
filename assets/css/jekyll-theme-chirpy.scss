@@ -43,3 +43,26 @@
   background-color: var(--timeline-node-bg);
   border: 3px solid var(--timeline-year-dot-color);
 }
+
+/* Sidebar visibility improvements */
+#sidebar .nav-link {
+  display: flex;
+  align-items: center;
+}
+
+#sidebar .nav-link i {
+  margin-right: 0.5rem;
+}
+
+#sidebar .sidebar-bottom {
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+#sidebar .sidebar-bottom a,
+#sidebar .sidebar-bottom button {
+  color: inherit;
+  opacity: 1;
+  font-size: 1.2rem;
+}
+
